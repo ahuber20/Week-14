@@ -1,0 +1,13 @@
+{
+	"parkName": "The Newest Park",
+	"directions": "Turn left on 123 W Wally Street",
+	"stateOrProvince": "ID",
+	"country": "USA",
+	"geoLocation": {
+		"latitude": "44.21123",
+		"longitude": "-110.92431"
+	},
+	"amenities": [
+		"dog friendly", "hot dog stand", "parking area", "restrooms", "vending machines"
+	]
+}
